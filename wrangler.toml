@@ -1,0 +1,5 @@
+name = "jazin-vpn"
+main = "worker.js"
+compatibility_date = "2026-09-11"
+
+compatibility_flags = ["nodejs_compat"]
